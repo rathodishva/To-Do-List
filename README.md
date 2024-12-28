@@ -22,7 +22,7 @@ The project consists of the following files:
 
 ## Usage
 
-1. Open `To-do.html` in any modern browser.
+1. Open `todo.html` in any modern browser.
 2. Enter a task in the input box and click the "Add" button to add the task to the list.
 3. Click on a task to toggle its completion status.
 4. Click the "×" on a task to remove it from the list/s
